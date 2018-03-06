@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">todobrian</string>
+    <string name="action_settings">Settings</string>
+    <string name="test">Texto de prueba</string>
+    <string name="teststring"> Lorem Ipsum dolestasdnkjasdhfjahsdk fasdfasdf</string>
+    <string name="nombre">Nombre</string>
+    <string name="hintNombre">Escriba um Nombre</string>
+    <string name="actividad">Actividad</string>
+    <string name="hintActividad">Ingresa la actividad</string>
+    <string name="guardar">Guardar</string>
+    <string name="error_valid">Sucedio un error al hacer la validación</string>
+    <string name="action_refresh">Refrescar</string>
+    <string name="action_refresh">Refrescar</string>
+</resources>
